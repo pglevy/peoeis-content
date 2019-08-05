@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+a {
+  font-weight: normal;
+  text-decoration: underline;
+}
