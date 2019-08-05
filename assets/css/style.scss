@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-a {
+a:hover {
   font-weight: normal;
   text-decoration: underline;
 }
